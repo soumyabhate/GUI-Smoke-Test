@@ -96,11 +96,11 @@ If you see that window, your **display configuration, Docker permissions, and Op
 
 ## 🎥 5. Demo Video
 
-[▶️ Watch the demo](Smoke Test Output.mp4)
+[▶️ Watch the demo](test_output.mp4)
 
 <!-- Inline player (works on GitHub Pages / some viewers) -->
 <video width="640" height="360" controls>
-  <source src="Smoke%20Test%20Output.mp4" type="video/mp4">
+  <source src="test_output.mp4" type="video/mp4">
 </video>
 
 ---
