@@ -91,7 +91,14 @@ cv2.destroyAllWindows()
 ✅ Expected result: a small window appears for ~3 seconds with green “Hello Jetson!” text.
 
 If you see that window, your **display configuration, Docker permissions, and OpenCV GUI** are all working perfectly.
+---
+## 🎥 5. Demo Video
+[▶️ Watch the demo](Smoke Test Output.mp4)
 
+<!-- Inline player (works on GitHub Pages / some viewers) -->
+<video width="640" height="360" controls>
+  <source src="assets/VID20251106151656.mp4" type="video/mp4">
+</video>
 ---
 
 ## 🧠 Why This Matters
